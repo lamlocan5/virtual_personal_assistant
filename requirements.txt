@@ -9,3 +9,4 @@ beautifulsoup4==4.9.3
 pydantic==1.8.2
 sqlalchemy==1.4.23
 pytest==6.2.5
+tesseract
