@@ -8,7 +8,7 @@ from langchain_community.vectorstores import FAISS
 from langchain_huggingface import HuggingFaceEmbeddings  
 
 
-DATA_FOLDER = "C:\\Users\\Vu The Van\\OneDrive\\Documents\\virtual_personal_assistant\\data\\raw"
+DATA_FOLDER = "data\raw"
 
 documents = []
 for filename in os.listdir(DATA_FOLDER):
